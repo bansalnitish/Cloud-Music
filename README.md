@@ -5,7 +5,7 @@ Just go into the code directory and type
 ```
 python manage.py runserver
 ```
-"My music" app will start on 127.0.0.1:8000 (Local Address)
+"Cloud-Music player" app will start on 127.0.0.1:8000 (Local Address)
 
 ### Features
 
