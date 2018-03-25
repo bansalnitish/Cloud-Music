@@ -13,4 +13,12 @@ python manage.py runserver
 - Add songs to Albums
 - Search for songs and Albums
 
-### Have Fun !!
+### Screenshots
+
+![](https://imgur.com/e4gFXK0.png)
+
+![album](https://imgur.com/t57ukkK.png)
+
+![](https://imgur.com/swOZKEU.png)
+
+![](https://imgur.com/YpxVFah.png)
